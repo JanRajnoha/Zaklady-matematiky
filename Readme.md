@@ -1,5 +1,5 @@
-# Zklady matematiky
+# Základy matematiky
 
-**Teechnology:** WinForm
+**Technology:** WinForm
 
-**Yea:r** 2012
+**Year:** 2012
